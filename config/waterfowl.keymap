@@ -20,7 +20,7 @@
         };
     };
 
-/ {
+ {
     behaviors {
         td1: tap_dance_1 {
             compatible = "zmk,behavior-tap-dance";
@@ -31,7 +31,7 @@
         };
     };
 
-/ {
+ {
     combos {
         compatible = "zmk,combos";
         combo_esc {
@@ -42,7 +42,7 @@
     };
 };
 
-/ {
+ {
     combos {
         compatible = "zmk,combos";
         combo_esc {
@@ -53,7 +53,7 @@
     };
 };
 
-/ {
+ {
     combos {
         compatible = "zmk,combos";
         combo_esc {
@@ -64,7 +64,7 @@
     };
 };
 
-/ {
+ {
     keymap {
         compatible = "zmk,keymap";
 
